@@ -22,6 +22,10 @@ The site for the Blind-Arduino Blog
 4.	Write your document in markdown and hit commit
 5.	Once the file has been committed, wait about 20 minutes and the blog will show the file on the live site.
 
+### Things that are complicated
+
+1. To do a link to a page, you can't just do `<a href="/about">About</a>`, you need to put relative_url after the link like: `<a href="{{ "/about" | relative_url }}">About</a>
+
 # Things to Consider
 
 1.	We should decide if we want our site URL to be a custom domain, "blind-arduino.github.io", or " blind-arduino.github.io/Blind-Arduino-Blog/"
