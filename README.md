@@ -1,4 +1,4 @@
-# Blind-Arduino Blog
+    # Blind-Arduino Blog
 The site for the Blind-Arduino Blog
 
 ## Quick Links
@@ -27,3 +27,9 @@ The site for the Blind-Arduino Blog
 1.	We should decide if we want our site URL to be a custom domain, "blind-arduino.github.io", or " blind-arduino.github.io/Blind-Arduino-Blog/"
 2.	We need to come up with a nice layout for the site
 
+# References
+
+[Guide on building a blog with Github Pages](https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/)
+[Introduction to Liquid Templating Language](https://shopify.github.io/liquid/basics/introduction/)
+[Github Liquid Filters and variables](https://jekyllrb.com/docs/liquid/)
+[Posts using Jekyll](https://jekyllrb.com/docs/posts/) 
