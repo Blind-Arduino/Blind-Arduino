@@ -24,7 +24,10 @@ The site for the Blind-Arduino Blog
 
 ### Things that are complicated
 
-1. To do a link to a page, you can't just do `<a href="/about">About</a>`, you need to put relative_url after the link like: `<a href="{{ "/about" | relative_url }}">About</a>
+1. To do a link to a page, you can't just do
+`<a href="/about">About</a>`,
+you need to put relative_url after the link like:
+`<a href="{{ "/about" | relative_url }}">About</a>`
 
 # Things to Consider
 
