@@ -7,6 +7,6 @@ The Blind Arduino Blog is a collection of news and information about blind maker
 {% for post in site.posts %}
   <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
   
-  {{ blog.excerpt }}
+  {{ post.excerpt }}
   {% endfor %}
   
