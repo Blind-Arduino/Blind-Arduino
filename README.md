@@ -1,4 +1,4 @@
-    # Blind-Arduino Blog
+# Blind-Arduino Blog
 The site for the Blind-Arduino Blog
 
 ## Quick Links
@@ -29,6 +29,7 @@ The site for the Blind-Arduino Blog
 
 # References
 
+[Intro documentation on Github Pages and Jekyll](https://jekyllrb.com/docs/github-pages/)
 [Guide on building a blog with Github Pages](https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/)
 [Introduction to Liquid Templating Language](https://shopify.github.io/liquid/basics/introduction/)
 [Github Liquid Filters and variables](https://jekyllrb.com/docs/liquid/)
