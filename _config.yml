@@ -1,0 +1,34 @@
+title: "Blind Arduino Project"
+tagline: "Accessible electronics for blind makers"
+description: >-
+  The Blind Arduino Project is a community of blind and sighted makers
+  exploring accessible, non-visual techniques for designing, building,
+  and using open-source hardware and software.
+baseurl: ""
+url: "https://blindarduino.org"
+
+theme: minima
+minima:
+  skin: auto
+
+header_pages:
+  - index.md
+  - about.md
+  - contact.md
+
+future: true
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+feed:
+  path: atom.xml
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - node_modules
+  - vendor
